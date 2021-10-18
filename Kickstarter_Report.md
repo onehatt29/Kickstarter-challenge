@@ -21,6 +21,8 @@ Based on the First visualization it shows that successful shows are Launched dur
 Based on the data provided by outcome-based on the launch date the Pivot table and line graph showing the best and harder times of the year to launch a play. The best times to launch based on the data will be May, June, and July. The more difficult months are Sep, Oct, and Nov.
 
 ### Analysis of Outcomes Based on Goals
+Based on this Analysis the smaller capital amounts raised can get a fundriser closer to it's goal.
+
 
 
 ### Challenges and Difficulties Encountered
