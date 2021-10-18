@@ -12,7 +12,7 @@ To provide Louise with a suitable option for her Kickstarter campaign the data i
 
 Based on the First visualization it shows that successful shows are Launched during  May. And failed shows are Launched in October. 
 
-i[ this is an image]
+![ Outcomes based on Launch Date](resources/Theater_Outcomes_VS_Launch.png)
 
 
 
